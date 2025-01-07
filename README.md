@@ -23,3 +23,44 @@ To use this script, you need:
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/araxiaonline/Arena-Fight-Script.git
+
+
+| Boss Name          | NPC ID  |
+|--------------------|---------|
+| Arian              | 700800  |
+| Lord Cyran         | 700801  |
+| Tiger Boss         | 700802  |
+| Spellmaster        | 700803  |
+| Bogdan             | 700804  |
+| Cow Lord           | 700805  |
+| Diablo             | 700806  |
+| Naroxius           | 700807  |
+| Al'Akir            | 700808  |
+| Lich King          | 700809  |
+| Cho'gall           | 700810  |
+| Forgemaster Throngus | 700811 |
+| Ozruk              | 700812  |
+| Argaloth           | 700813  |
+| Setesh             | 700814  |
+| Therazane          | 700815  |
+| Elegon             | 700816  |
+| Gioran             | 700817  |
+| Un'Sok             | 700818  |
+| Zorlok             | 700819  |
+| Hellscream         | 700820  |
+| Thok               | 700821  |
+| Pavalak            | 700822  |
+| Gekkan             | 700823  |
+| Blackhand          | 700824  |
+| Bladefist          | 700825  |
+| Viryx              | 700826  |
+| Butcher            | 700827  |
+| Brakenspore        | 700828  |
+| Mannoroth          | 700829  |
+| Lady Temptessa     | 700830  |
+| Kil'jaeden         | 700831  |
+| Gul'dan            | 700832  |
+| Tichondrius        | 700833  |
+| Xavius             | 700834  |
+| Varimathras        | 700835  |
+| Imonar             | 700836  |
