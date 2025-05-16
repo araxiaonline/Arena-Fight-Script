@@ -44,17 +44,17 @@ local bosses = {
     {id = 700860, name = "Illidan Stormrage", level = 82, points = 250, difficulty = "Hard"},
 
     -- WOTLK Bosses
-    {id = 27447, name = "Varos Cloudstrider", level = 81, points = 75, difficulty = "Challenging"},
-    {id = 36497, name = "Bronjahm", level = 82, points = 75, difficulty = "Challenging"},
-    {id = 29309, name = "Elder Nadox", level = 80, points = 25, difficulty = "Easy"},
-    {id = 26630, name = "Trollgore", level = 82, points = 75, difficulty = "Challenging"},
-    {id = 29310, name = "Jedoga Shadowseeker", level = 82, points = 75, difficulty = "Challenging"},
-    {id = 26529, name = "Meathook", level = 82, points = 75, difficulty = "Challenging"},
-    {id = 32845, name = "Hodir", level = 83, points = 250, difficulty = "Hard"},
-    {id = 32906, name = "Freya", level = 83, points = 250, difficulty = "Hard"},
-    {id = 29304, name = "Slad'ran", level = 80, points = 25, difficulty = "Easy"},
-    {id = 29305, name = "Moorabi", level = 80, points = 25, difficulty = "Easy"},
-    {id = 38433, name = "Toravon the Ice Watcher", level = 83, points = 250, difficulty = "Hard"},
+    {id = 700861, name = "Varos Cloudstrider", level = 81, points = 75, difficulty = "Challenging"},
+    {id = 700862, name = "Bronjahm", level = 82, points = 75, difficulty = "Challenging"},
+    {id = 700863, name = "Elder Nadox", level = 80, points = 25, difficulty = "Easy"},
+    {id = 700864, name = "Trollgore", level = 82, points = 75, difficulty = "Challenging"},
+    {id = 700865, name = "Jedoga Shadowseeker", level = 82, points = 75, difficulty = "Challenging"},
+    {id = 700866, name = "Meathook", level = 82, points = 75, difficulty = "Challenging"},
+    {id = 700867, name = "Hodir", level = 83, points = 250, difficulty = "Hard"},
+    {id = 700868, name = "Freya", level = 83, points = 250, difficulty = "Hard"},
+    {id = 700869, name = "Slad'ran", level = 80, points = 25, difficulty = "Easy"},
+    {id = 700870, name = "Moorabi", level = 80, points = 25, difficulty = "Easy"},
+    {id = 700871, name = "Toravon the Ice Watcher", level = 83, points = 250, difficulty = "Hard"},
     {id = 700809, name = "The Lich King", level = 83, points = 250, difficulty = "Hard"},
 
     -- CATA Bosses
